@@ -1,13 +1,12 @@
 import React from 'react';
 import boxVid from './box-vid.mp4';
+import { embedVideo } from '../../Utility/display';
 
 function BoxBreathing() {
 	console.log('box');
 	return (
 		<>
-			<video autoPlay={true} muted loop>
-				<source src={boxVid} type='video/mp4' />
-			</video>
+			{embedVideo(boxVid)}
 		</>
 	);
 }

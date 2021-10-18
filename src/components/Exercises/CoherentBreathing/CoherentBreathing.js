@@ -1,12 +1,11 @@
 import React from 'react';
 import coherentVid from './coherent-vid.mp4';
+import { embedVideo } from '../../Utility/display';
 
 function CoherentBreathing() {
 	return (
 		<>
-			<video autoPlay={true} muted loop>
-				<source src={coherentVid} type='video/mp4' />
-			</video>
+			{embedVideo(coherentVid)}
 		</>
 	);
 }
