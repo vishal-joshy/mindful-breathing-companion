@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter, Switch, Route, Link } from 'react-router-dom';
+import { HashRouter, Switch, Route, Link } from 'react-router-dom';
 import Landing from './components/Main/Landing';
 import BoxBreathing from './components/Exercises/BoxBeathing/BoxBreathing';
 import CoherentBreathing from './components/Exercises/CoherentBreathing/CoherentBreathing';
@@ -11,14 +11,14 @@ function App() {
 	return (
 		<>
 			<NavBar />
-			<BrowserRouter>
+			<HashRouter>
 				<Switch>
 					<Route exact path='/' component={Landing} />
 					<Route exact path='/box' component={BoxBreathing} />
 					<Route exact path='/coherent' component={CoherentBreathing} />
 					<Route exact path='/four-seven' component={FourSevenBreathing} />
 				</Switch>
-			</BrowserRouter>
+			</HashRouter>
 		</>
 	);
 }
