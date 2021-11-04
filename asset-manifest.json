@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mindful-breathing-companion/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/mindful-breathing-companion/static/js/main.d56a8f53.chunk.js",
-    "main.js.map": "/mindful-breathing-companion/static/js/main.d56a8f53.chunk.js.map",
+    "main.js": "/mindful-breathing-companion/static/js/main.e7f70777.chunk.js",
+    "main.js.map": "/mindful-breathing-companion/static/js/main.e7f70777.chunk.js.map",
     "runtime-main.js": "/mindful-breathing-companion/static/js/runtime-main.f0b444aa.js",
     "runtime-main.js.map": "/mindful-breathing-companion/static/js/runtime-main.f0b444aa.js.map",
     "static/css/2.c1256375.chunk.css": "/mindful-breathing-companion/static/css/2.c1256375.chunk.css",
-    "static/js/2.dcf078fa.chunk.js": "/mindful-breathing-companion/static/js/2.dcf078fa.chunk.js",
-    "static/js/2.dcf078fa.chunk.js.map": "/mindful-breathing-companion/static/js/2.dcf078fa.chunk.js.map",
+    "static/js/2.0b14ccd1.chunk.js": "/mindful-breathing-companion/static/js/2.0b14ccd1.chunk.js",
+    "static/js/2.0b14ccd1.chunk.js.map": "/mindful-breathing-companion/static/js/2.0b14ccd1.chunk.js.map",
     "static/js/3.f39634d4.chunk.js": "/mindful-breathing-companion/static/js/3.f39634d4.chunk.js",
     "static/js/3.f39634d4.chunk.js.map": "/mindful-breathing-companion/static/js/3.f39634d4.chunk.js.map",
     "index.html": "/mindful-breathing-companion/index.html",
     "static/css/2.c1256375.chunk.css.map": "/mindful-breathing-companion/static/css/2.c1256375.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/mindful-breathing-companion/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.dcf078fa.chunk.js.LICENSE.txt": "/mindful-breathing-companion/static/js/2.dcf078fa.chunk.js.LICENSE.txt",
+    "static/js/2.0b14ccd1.chunk.js.LICENSE.txt": "/mindful-breathing-companion/static/js/2.0b14ccd1.chunk.js.LICENSE.txt",
     "static/media/box-vid.747890e3.mp4": "/mindful-breathing-companion/static/media/box-vid.747890e3.mp4",
     "static/media/coherent-vid.d7629e07.mp4": "/mindful-breathing-companion/static/media/coherent-vid.d7629e07.mp4",
     "static/media/four-seven-vid.b5fa131c.mp4": "/mindful-breathing-companion/static/media/four-seven-vid.b5fa131c.mp4",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.f0b444aa.js",
     "static/css/2.c1256375.chunk.css",
-    "static/js/2.dcf078fa.chunk.js",
+    "static/js/2.0b14ccd1.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.d56a8f53.chunk.js"
+    "static/js/main.e7f70777.chunk.js"
   ]
 }
