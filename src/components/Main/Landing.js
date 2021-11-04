@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Landing() {
-    return (
-        <div>
-            Landing
-        </div>
-    )
+	return <div>Select option from nav bar</div>;
 }
 
-export default Landing
+export default Landing;

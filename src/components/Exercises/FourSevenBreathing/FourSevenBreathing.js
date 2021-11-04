@@ -1,13 +1,9 @@
-import React from 'react';
-import fourSevenVid from './four-seven-vid.mp4';
-import { embedVideo } from '../../Utility/display';
+import React from "react";
+import EmbedVideo from "../../EmbedVideo";
+import fourSevenVid from "./four-seven-vid.mp4";
 
 function FourSevenBreathing() {
-	return (
-		<>
-			{embedVideo(fourSevenVid)}
-		</>
-	);
+	return <EmbedVideo video={fourSevenVid} />;
 }
 
 export default FourSevenBreathing;

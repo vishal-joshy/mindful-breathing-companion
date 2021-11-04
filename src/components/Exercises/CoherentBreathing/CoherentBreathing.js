@@ -1,13 +1,10 @@
 import React from 'react';
+import EmbedVideo from '../../EmbedVideo';
 import coherentVid from './coherent-vid.mp4';
-import { embedVideo } from '../../Utility/display';
+
 
 function CoherentBreathing() {
-	return (
-		<>
-			{embedVideo(coherentVid)}
-		</>
-	);
+	return <EmbedVideo video={coherentVid} />;
 }
 
 export default CoherentBreathing;
