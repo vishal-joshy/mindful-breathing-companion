@@ -12,11 +12,11 @@ function NavBar() {
 					<Navbar.Collapse id='basic-navbar-nav'>
 						<Nav className='me-auto'>
 						
-							<Nav.Link href='/box'>Box Breathing</Nav.Link>
+							<Nav.Link href='#/box'>Box Breathing</Nav.Link>
 
-							<Nav.Link href='/coherent'>Coherent Breathing</Nav.Link>
+							<Nav.Link href='#/coherent'>Coherent Breathing</Nav.Link>
 
-							<Nav.Link href='/four-seven'>4-7-8 breathing</Nav.Link>
+							<Nav.Link href='#/four-seven'>4-7-8 breathing</Nav.Link>
 						</Nav>
 					</Navbar.Collapse>
 				</Container>
