@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mindful-breathing-companion/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/mindful-breathing-companion/static/js/main.e7f70777.chunk.js",
-    "main.js.map": "/mindful-breathing-companion/static/js/main.e7f70777.chunk.js.map",
+    "main.js": "/mindful-breathing-companion/static/js/main.f2260740.chunk.js",
+    "main.js.map": "/mindful-breathing-companion/static/js/main.f2260740.chunk.js.map",
     "runtime-main.js": "/mindful-breathing-companion/static/js/runtime-main.f0b444aa.js",
     "runtime-main.js.map": "/mindful-breathing-companion/static/js/runtime-main.f0b444aa.js.map",
     "static/css/2.c1256375.chunk.css": "/mindful-breathing-companion/static/css/2.c1256375.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.c1256375.chunk.css",
     "static/js/2.0b14ccd1.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e7f70777.chunk.js"
+    "static/js/main.f2260740.chunk.js"
   ]
 }
