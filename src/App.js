@@ -34,6 +34,7 @@ function App() {
             path="/four-seven"
             component={() => <VideoDisplay video={fourSevenVideo} />}
           />
+          <Route path={'*'} component={() => <h1>404</h1>} />
         </Switch>
       </HashRouter>
     </>
