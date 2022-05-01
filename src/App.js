@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { HashRouter, Switch, Route, Link } from 'react-router-dom';
+import { HashRouter, Switch, Route } from 'react-router-dom';
 import Landing from './components/Landing';
 import NavBar from './components/Header/NavBar';
 import boxVideo from './assets/box-vid.mp4';
